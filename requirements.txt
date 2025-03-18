@@ -1,0 +1,12 @@
+streamlit
+langchain_huggingface
+langchain_community
+langchain
+python-dotenv
+asyncio
+langchain_groq
+Watchdog
+numpy==1.26.2
+playwright
+html2text
+chromadb
